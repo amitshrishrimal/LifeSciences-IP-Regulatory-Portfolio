@@ -57,4 +57,12 @@ The search retrieved 142 results. Screening narrowed the pool to two high-risk a
 
 ## 4. IP Risk Mitigation & Design-Around Strategy
 To establish a clear path to commercialization and achieve true "Freedom to Operate," the following formulation engineering modifications are implemented based on the claims mapping data:
+### Technical Implementation Steps
+1.  **Excipient Threshold Alteration:** Adjust the formulation processing parameters to increase the delivery enhancer density, locking the peptide-to-SNAC weight ratio strictly at **1:65**. This successfully steps outside the literal boundary of US 10,945,123 B2.
+2.  **Excipient Substitution:** Initiate parallel stability testing using *Sodium Caprate* instead of SNAC, exploiting a clean whitespace identified in the secondary search cluster.
 
+---
+
+## 5. Methodological Framework (McKinsey Forward Application)
+*   **MECE Issue Tree Structuring:** The entire clearance process was segmented into mutually exclusive domains (API, Excipients, Manufacturing Process, Clinical Indication) ensuring zero overlapping variables during patent landscape indexing.
+*   **Pyramid Communication:** The risk metrics are tailored for rapid c-suite decision-making, presenting the core legal vulnerability (Formulation ratios) followed by immediate, data-backed chemical synthesis alternatives.
