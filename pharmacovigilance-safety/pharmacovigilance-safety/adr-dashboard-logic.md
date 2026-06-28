@@ -1,5 +1,5 @@
 # Adverse Drug Reaction (ADR) Signal Detection Dashboard Logic
-**Author:** [Your Name / Clinical Safety Specialist]
+**Author:** [Amit Shrishrimal / Pharmacist]
 
 This document outlines the data architecture, metrics, and risk-assessment logic utilized to build a functional Pharmacovigilance (PV) dashboard. It maps clinical safety data to actionable insights for signal detection and regulatory reporting.
 
