@@ -1,5 +1,5 @@
 # Structured Problem-Solving Framework: Clinical Operations Case Study
-**Author:** [Your Name]  
+**Author:** [Amit Shrishrimal]  
 **Methodology Source:** McKinsey Forward Principles & Scientific Writing Frameworks
 
 This case study demonstrates the application of structured management frameworks and clear scientific exposition to solve operational bottlenecks within clinical and pharmaceutical environments.
