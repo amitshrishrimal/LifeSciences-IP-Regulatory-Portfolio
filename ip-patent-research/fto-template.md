@@ -1,7 +1,7 @@
 # Freedom to Operate (FTO) / Patent Clearance Analysis Template
 **Analyst:** [Amit Shrishrimal] 
 **Date of Analysis:** [28 JUNE 2026]  
-**Target Subject Matter:** [Fictional Active Pharmaceutical Ingredient (API) or Formulation]
+**Target Subject Matter:** [GLP-1 receptor agonist formulation]
 
  ## 1. Executive Summary
 * A high-level summary of the clearance status, indicating whether the target subject matter presents a High, Medium, or Low risk of patent infringement in the target jurisdictions.
