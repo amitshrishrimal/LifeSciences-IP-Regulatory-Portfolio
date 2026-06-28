@@ -1,22 +1,20 @@
 # Freedom to Operate (FTO) / Patent Clearance Analysis Template
-**Analyst:** [Your Name]  
-**Date of Analysis:** [Date]  
+**Analyst:** [Amit Shrishrimal] 
+**Date of Analysis:** [28 JUNE 2026]  
 **Target Subject Matter:** [Fictional Active Pharmaceutical Ingredient (API) or Formulation]
 
-## 1. Executive Summary
-*A high-level summary of the clearance status, indicating whether the target subject matter presents a High, Medium, or Low risk of patent infringement in the target jurisdictions.*
+ ## 1. Executive Summary
+* A high-level summary of the clearance status, indicating whether the target subject matter presents a High, Medium, or Low risk of patent infringement in the target jurisdictions.
 
 ## 2. Target Jurisdiction(s)
 *   United States (USPTO)
 *   Europe (EPO)
-*   [Add other regions as relevant]
+ ## 3.   Search Strategy & Scope
+*   Keywords Used: [List key synonyms, chemical structures, or synonyms]
+*   CPC Classifications Filtered: [e.g., A61K, A61P]
+*   Date Limits Applied:** Patents active within the last 20 years.
 
-## 3. Search Strategy & Scope
-*   **Keywords Used:** [List key synonyms, chemical structures, or synonyms]
-*   **CPC Classifications Filtered:** [e.g., A61K, A61P]
-*   **Date Limits Applied:** Patents active within the last 20 years.
-
-## 4. Patent Landscape & Relevant Claims Mapping
+ ## 4. Patent Landscape & Relevant Claims Mapping
 
 | Patent / Application No. | Assignee / Owner | Expiry Date | Relevant Independent Claims | Infringement Risk Level (Low/Med/High) | Mitigation / Design-Around Strategy |
 | :--- | :--- | :--- | :--- | :--- | :--- |
